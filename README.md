@@ -18,10 +18,7 @@
 <h2 align="center">🏆 Stats 🏆</h2>
 <br/>
 <div align="center">
-  <img widhh=400 src="[![GitHub Streak](https://github-readme-streak-stats-dun-three.vercel.app?user=VrickPL&theme=dark)](https://git.io/streak-stats)" alt="streak stats"/>
-  <img width=400 src="[github-readme-streak-stats-VrickPL.vercel.app](https://streak-stats.demolab.com)" alt="readme stats"/>
-<br/>
-  <img width=350 src="[github-readme-streak-stats-VrickPL.vercel.app](https://github-readme-stats.vercel.app/api/top-langs/?username=VrickPL)" alt="top languages"/>
+  <img src="https://github-readme-streak-stats-dun-three.vercel.app?user=VrickPL&theme=tokyonight"/>
 </div>
 
 <br/>
