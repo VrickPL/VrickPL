@@ -1,16 +1,32 @@
-### Hi there 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jan+Kazubski;" />
+</h1>
 
-<!--
-**VrickPL/VrickPL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">⚒️ Languages and Tools ⚒️</h2>
+<br/>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=swift,kotlin,java,c"/>
+    <br/>
+    <img src="https://skillicons.dev/icons?i=github,bitbucket,git,latex,apple,androidstudio,idea"/>
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<br/>
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">🏆 Stats 🏆</h2>
+<br/>
+<div align="center">
+  <img widhh=400 src="[![GitHub Streak](https://github-readme-streak-stats-dun-three.vercel.app?user=VrickPL&theme=dark)](https://git.io/streak-stats)" alt="streak stats"/>
+  <img width=400 src="[github-readme-streak-stats-VrickPL.vercel.app](https://streak-stats.demolab.com)" alt="readme stats"/>
+<br/>
+  <img width=350 src="[github-readme-streak-stats-VrickPL.vercel.app](https://github-readme-stats.vercel.app/api/top-langs/?username=VrickPL)" alt="top languages"/>
+</div>
+
+<br/>
+<br/>
+
+<h3 align="center">
+     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+🫡;+Shoot+me+a+message+on+Linkedin!">
+</h3>
