@@ -6,9 +6,9 @@
 <br/>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=swift,kotlin,java,c"/>
+    <img src="https://skillicons.dev/icons?i=swift,kotlin,java"/>
     <br/>
-    <img src="https://skillicons.dev/icons?i=github,bitbucket,git,latex,apple,androidstudio,idea"/>
+    <img src="https://skillicons.dev/icons?i=github,bitbucket,git,latex,apple,androidstudio"/>
   </a>
 </div>
 
@@ -33,12 +33,7 @@
     
    
 <div align="center" style="margin-top: 20px;">
-  <h2>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" 
-       style="height: 1em; vertical-align: middle; margin-right: 8px;" 
-       alt="Apple Icon">
-  Check out my new app!
-</h2>
+  <h2> Check out my new app! </h2>
   <p>
     Download the SmartChoice - Decisions app from the App Store:
     <a href="https://apps.apple.com/app/smartchoice-decisions/id6744545015" target="_blank">
