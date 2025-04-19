@@ -32,3 +32,19 @@
 </div>
     
    
+<div align="center" style="margin-top: 20px;">
+  <h2>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" 
+       style="height: 1em; vertical-align: middle; margin-right: 8px;" 
+       alt="Apple Icon">
+  Check out my new app!
+</h2>
+  <p>
+    Download the SmartChoice - Decisions app from the App Store:
+    <a href="https://apps.apple.com/app/smartchoice-decisions/id6744545015" target="_blank">
+      SmartChoice - Decisions
+    </a>
+  </p>
+</div>
+
+
