@@ -18,7 +18,7 @@
 <h2 align="center">🏆 Stats 🏆</h2>
 <br/>
 <div align="center">
-  <img src="https://github-readme-streak-stats-dun-three.vercel.app?user=VrickPL&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats-dun-three.vercel.app?user=jkazubski&theme=tokyonight"/>
 </div>
 
 <br/>
